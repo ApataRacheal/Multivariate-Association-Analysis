@@ -9,5 +9,5 @@ variables:
 		resistant
 		intermediate
 		undetermined
-  The gene presence an dabsence data were correlated with the resistant phenotypes to identify genes that are predictive.
+  The gene presence and absence data were correlated with the resistant phenotypes to identify genes that are predictive.
 	
