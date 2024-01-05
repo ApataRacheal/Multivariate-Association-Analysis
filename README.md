@@ -1,6 +1,6 @@
 ## Bacterial infection and drug resistance data association analysis
 
-This is a repository fro custom code genomic analysis of antibacterial drug resistance
+This is a repository for custom code for genomic analysis of antibacterial drug resistance
 variables:
 	Gene presence
 	Gene absence
@@ -9,5 +9,5 @@ variables:
 		resistant
 		intermediate
 		undetermined
-  The gene presence and absence data were correlated with the resistant phenotypes to identify genes that are predictive.
+  The gene presence and absence data were correlated with the resistant phenotypes to identify predictive genes.
 	
